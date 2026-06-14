@@ -20,7 +20,7 @@ In This Project, The User Can Add Tasks, Change Them To "Done" Or "Undone" Statu
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AliEnsafi/todolist-with-redux.git
 ```
 
 Install dependencies:
